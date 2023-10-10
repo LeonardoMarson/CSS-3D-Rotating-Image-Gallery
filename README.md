@@ -1,4 +1,4 @@
-# Título do Projeto: Desenvolvimento de um Website com Rotating Image Gallery
+## Título do Projeto: Desenvolvimento de um Website com Rotating Image Gallery
 
 ## Objetivo:
 
