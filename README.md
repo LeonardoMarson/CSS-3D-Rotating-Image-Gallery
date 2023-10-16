@@ -6,4 +6,4 @@ O objetivo deste projeto é criar um website atraente que destaque uma Rotating 
 
 ## Descrição do Projeto:
 
-Este projeto de desenvolvimento de um website com Rotating Image Gallery será focado somente no Front-End. A visualização pode ser vista através do [link](https://leonardomarson.github.io/CSS-3D-Rotating-Image-Gallery/).
+Este projeto de desenvolvimento de um website com Rotating Image Gallery será focado somente no Front-End.
